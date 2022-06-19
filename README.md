@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://faisal244.github.io/Portfolio/](https://faisal244.github.io/Portfolio/)
 
-- 💬 Ask me about **NodeJS, JavaScript, threeJS, Magenta, Tone.JS, Monome Norns script development, VR**
+- 💬 Ask me about **NodeJS, JavaScript, Express.js, Full Stack Development, threeJS, Magenta, Tone.JS, **
 
 - 📫 How to reach me **m.faisal244@gmail.com**
 
