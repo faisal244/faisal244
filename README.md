@@ -1,5 +1,6 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-<h1 align="center">Hi 👋, I'm Faisal</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">, I'm Faisal</h1>
 <h3 align="center">A passionate and experienced Digital Marketer turned Full Stack Software Engineer. Currently Enrolled at the University of Birmingham Full Stack Wed Development Bootcamp</h3>
 
 <h3 align="center">I'm a Full Stack Web Developer leveraging a varied and technical Digital Marketing background to provide unique perspectives on how end users interact with websites, applications and software platforms.</h3>
