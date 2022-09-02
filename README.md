@@ -18,7 +18,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal244&show_icons=true&locale=en&theme=react" alt="faisal244" /></p>
 <br>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=faisal244&theme=algolia&no-bg=true" ></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=faisal244&theme=algolia" ></p>
 <br>
 
 
