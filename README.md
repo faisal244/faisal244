@@ -11,16 +11,6 @@
 
 <h3 align="center">I am currently looking for exciting opportunities within the tech sector, with a particular interest in Junior Full-Stack Developer and Junior Software Engineer positions.</h3>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=faisal244&theme=react&date_format=j%20M%5B%20Y%5D" alt="faisal244"></p>
-
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal244&show_icons=true&locale=en&theme=react" alt="faisal244" /></p>
-<br>
-
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=faisal244&theme=algolia" ></p>
-<br>
-
 
  
 <h3 align="center">  Languages and Tools: </h3>
@@ -191,13 +181,24 @@
 </table>
 <br>
 <hr/>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=faisal244&theme=react&date_format=j%20M%5B%20Y%5D" alt="faisal244"></p>
+<br>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal244&show_icons=true&locale=en&theme=react" alt="faisal244" /></p>
+<br>
+
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=faisal244&theme=algolia" ></p>
+<br>
+
+
 
 - 👨‍💻 All of my projects are available at [https://faisal244.github.io/react-portfolio/](https://faisal244.github.io/react-portfolio/)
 
 - 💬 Ask me about **NodeJS, JavaScript, Express.js, Full Stack Development, threeJS, **
 
 - 📫 How to reach me **m.faisal244@gmail.com**
-
+<br>
 <hr/>
 
 <h3 align="center">Connect with me:</h3>
