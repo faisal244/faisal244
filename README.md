@@ -11,7 +11,8 @@
 <h3 align="center">I'm a Full Stack Web Developer leveraging a varied and technical Digital Marketing background to provide unique perspectives on how end users interact with websites, applications and software platforms.</h3>
 
 <h3 align="center">My goal of a career change from marketing to programming comes from my love of creative problem solving and a real curiosity of all things web and using that passion to build applications that can serve real-world needs.</h3>
-
+<br>
+<br>
 <h3 align="center">I am currently looking for exciting opportunities within the tech sector, with a particular interest in Junior Full-Stack Developer and Junior Software Engineer positions.</h3>
 <br>
 
