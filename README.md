@@ -1,6 +1,7 @@
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">, I'm Faisal Mohammed</h1>
+
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Frontend%20|%20UX%20|%20React%20Enthusiast;Your+Next+Awesome+Team+Member;Always%20learning%20new%20things&center=true&width=450&height=40">
 
 <h4 align="center">A passionate and experienced Digital Marketer turned Full Stack Software Engineer. Currently Enrolled at the University of Birmingham Full Stack Wed Development Bootcamp</h4>
