@@ -12,8 +12,9 @@
 <h3 align="center">I am currently looking for exciting opportunities within the tech sector, with a particular interest in Junior Full-Stack Developer and Junior Software Engineer positions.</h3>
 <br>
 
- 
-<h3 align="center">  Languages and Tools: </h3>
+<h2 align="center" style="text-decoration:none">View my CV here: https://cvapp.es/r/ylWmuBlGP</h2>
+ <br>
+<h1 align="center">  Languages and Tools: </h1>
 
 
 <h3 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 4%>
