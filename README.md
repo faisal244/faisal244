@@ -13,7 +13,6 @@
 <h4 align="center">My goal of a career change from marketing to programming comes from my love of creative problem solving and a real curiosity of all things web and using that passion to build applications that can serve real-world needs.</h4>
 
 <h4 align="center">I am currently looking for exciting opportunities within the tech sector, with a particular interest in Junior Full-Stack Developer and Junior Software Engineer positions.</h4>
-<br>
 
 <h2 align="center" style="text-decoration:none">View my CV here: https://cvapp.es/r/ylWmuBlGP</h2>
  <br>
