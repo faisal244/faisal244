@@ -1,15 +1,15 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">, I'm Faisal</h1>
-<h3 align="center">A passionate and experienced Digital Marketer turned Full Stack Software Engineer. Currently Enrolled at the University of Birmingham Full Stack Wed Development Bootcamp</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">, I'm Faisal Mohammed</h1>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Frontend%20|%20UX%20|%20React%20Enthusiast;Your+Next+Awesome+Team+Member;Always%20learning%20new%20things&center=true&width=450&height=40">
 
-<h3 align="center">I'm a Full Stack Web Developer leveraging a varied and technical Digital Marketing background to provide unique perspectives on how end users interact with websites, applications and software platforms.</h3>
+<h4 align="center">A passionate and experienced Digital Marketer turned Full Stack Software Engineer. Currently Enrolled at the University of Birmingham Full Stack Wed Development Bootcamp</h4>
 
+<h4 align="center">I'm a Full Stack Web Developer leveraging a varied and technical Digital Marketing background to provide unique perspectives on how end users interact with websites, applications and software platforms.</h4>
 
-<h3 align="center">My goal of a career change from marketing to programming comes from my love of creative problem solving and a real curiosity of all things web and using that passion to build applications that can serve real-world needs.</h3>
-<br>
+<h4 align="center">My goal of a career change from marketing to programming comes from my love of creative problem solving and a real curiosity of all things web and using that passion to build applications that can serve real-world needs.</h4>
 
-<h3 align="center">I am currently looking for exciting opportunities within the tech sector, with a particular interest in Junior Full-Stack Developer and Junior Software Engineer positions.</h3>
+<h4 align="center">I am currently looking for exciting opportunities within the tech sector, with a particular interest in Junior Full-Stack Developer and Junior Software Engineer positions.</h4>
 <br>
 
 <h2 align="center" style="text-decoration:none">View my CV here: https://cvapp.es/r/ylWmuBlGP</h2>
